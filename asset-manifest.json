@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/player-indiv-points/static/css/main.c183779f.chunk.css",
+    "main.js": "/player-indiv-points/static/js/main.4cb721a6.chunk.js",
+    "main.js.map": "/player-indiv-points/static/js/main.4cb721a6.chunk.js.map",
+    "runtime-main.js": "/player-indiv-points/static/js/runtime-main.2dfa359e.js",
+    "runtime-main.js.map": "/player-indiv-points/static/js/runtime-main.2dfa359e.js.map",
+    "static/js/2.c2face72.chunk.js": "/player-indiv-points/static/js/2.c2face72.chunk.js",
+    "static/js/2.c2face72.chunk.js.map": "/player-indiv-points/static/js/2.c2face72.chunk.js.map",
+    "static/js/3.3083a3ef.chunk.js": "/player-indiv-points/static/js/3.3083a3ef.chunk.js",
+    "static/js/3.3083a3ef.chunk.js.map": "/player-indiv-points/static/js/3.3083a3ef.chunk.js.map",
+    "index.html": "/player-indiv-points/index.html",
+    "static/css/main.c183779f.chunk.css.map": "/player-indiv-points/static/css/main.c183779f.chunk.css.map",
+    "static/js/2.c2face72.chunk.js.LICENSE.txt": "/player-indiv-points/static/js/2.c2face72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dfa359e.js",
+    "static/js/2.c2face72.chunk.js",
+    "static/css/main.c183779f.chunk.css",
+    "static/js/main.4cb721a6.chunk.js"
+  ]
+}
